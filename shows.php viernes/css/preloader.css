@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	overflow: hidden;
+}
+
+/* Preloader */
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+   
+    background-image: url(../assets/img/back.gif);  /* change if the mask should be a color other than white */
+    z-index: 99999; /* makes sure it stays on top */
+    background-repeat: repeat;
+}
+ 
+#status {
+    width: 636px;
+    height: 478px;
+    position: absolute;
+    left: 50%; /* centers the loading animation horizontally on the screen */
+    top: 50%; /* centers the loading animation vertically on the screen */
+    background-image: url(../assets/img/loader.gif); /* path to your loading animation */
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: -249px;
+    margin-right: 0;
+    margin-left: -315px;
+    margin-bottom: 0; 
+}
+.total_content {
+    visibility: hidden;
+}
