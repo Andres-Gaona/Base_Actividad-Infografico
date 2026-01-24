@@ -1,0 +1,1257 @@
+@charset "UTF-8";
+.total_content {
+    width: 1920px;
+    height: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.header_box {
+    height: 142px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-bottom: 3px solid #be1e2d;
+}
+.side_box {
+    width: 478px;
+    height: 935px;
+    float: left;
+}
+.content_box {
+    height: 935px;
+    float: left;
+    width: 1442px;
+}
+.shows_box {
+    height: 640px;
+}
+.video_box {
+    height: 298px;
+    position: relative;
+}
+.rotator_activities {
+    height: 680px;
+}
+.foot_content {
+    height: 258px;
+    width: 1442px;
+    background-color: #000000;
+}
+.promo_box {
+    width: 720px;
+    height: 258px;
+    float: left;
+}
+.restaurat_box {
+    float: left;
+    width: 722px;
+    height: 258px;
+    position: relative;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-top: 2px;
+}
+.header_down {
+    height: 60px;
+    background-color: #142833;
+    position: relative;
+}
+.header_top {
+    height: 82px;
+    background-color: #000000;
+}
+.shadow_top {
+    position: absolute;
+    top: 0px;
+    height: 13px;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.63) 0%,rgba(255,255,255,0.00) 61.22%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,0.63) 0%,rgba(255,255,255,0.00) 61.22%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,0.63) 0%,rgba(255,255,255,0.00) 61.22%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,0.63) 0%,rgba(255,255,255,0.00) 61.22%);
+    width: 100%;
+    z-index: 999;
+}
+.logo_box {
+    height: 82px;
+    width: 300px;
+    float: left;
+    background-color: #191c1e;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+.time_box {
+    width: 215px;
+    float: left;
+    height: 82px;
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    padding-top: 13px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.center_box {
+    width: 925px;
+    height: 83px;
+    float: left;
+    background-color: #000000;
+    position: relative;
+}
+.content_center_box {
+    width: 100%;
+    height: 83px;
+    position: relative;
+    background-color: #5c8bae;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+.time_world_box {
+    height: 83px;
+    width: 370px;
+    float: left;
+}
+.no_smoke_box {
+    background-color: #FFFFFF;
+    height: 68px;
+    float: left;
+    padding-top: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.news_box {
+    height: 59px;
+    width: 1355px;
+    float: left;
+}
+.news_content {
+    height: 100%;
+    background-color: #10212b;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    color: white;
+    float: left;
+    width: 100%;
+}
+.phones_number {
+    float: left;
+    background-color: #10212b;
+    width: 565px;
+    height: 59px;
+}
+.phones_content {
+    width: 100%;
+    height: 100%;
+    background-color: #0a3959;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.sign_box {
+    float: left;
+    padding-top: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 60px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.show_rotator_box {
+    height: 640px;
+    position: relative;
+    width: 478px;
+}
+.day_tittle_content {
+    display: inline-block;
+    height: 45px;
+    border-bottom-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    background-image: -webkit-linear-gradient(0deg,rgba(234,42,123,1.00) 0%,rgba(22,25,101,1.00) 100%);
+    background-image: -moz-linear-gradient(0deg,rgba(234,42,123,1.00) 0%,rgba(22,25,101,1.00) 100%);
+    background-image: -o-linear-gradient(0deg,rgba(234,42,123,1.00) 0%,rgba(22,25,101,1.00) 100%);
+    background-image: linear-gradient(90deg,rgba(234,42,123,1.00) 0%,rgba(22,25,101,1.00) 100%);
+    padding-left: 40px;
+    padding-right: 40px;
+    line-height: 37px;
+}
+.day_tittle_content_blue {
+    display: inline-block;
+    height: 45px;
+    border-bottom-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    background-image: -webkit-linear-gradient(0deg,rgba(20,188,195,1.00) 0%,rgba(2,112,160,1.00) 100%);
+    background-image: -moz-linear-gradient(0deg,rgba(20,188,195,1.00) 0%,rgba(2,112,160,1.00) 100%);
+    background-image: -o-linear-gradient(0deg,rgba(20,188,195,1.00) 0%,rgba(2,112,160,1.00) 100%);
+    background-image: linear-gradient(90deg,rgba(20,188,195,1.00) 0%,rgba(2,112,160,1.00) 100%);
+    padding-left: 40px;
+    padding-right: 40px;
+    line-height: 37px;
+}
+.day_tittle_box {
+    text-align: center;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.59) 0%,rgba(0,0,0,0.00) 81.45%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,0.59) 0%,rgba(0,0,0,0.00) 81.45%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,0.59) 0%,rgba(0,0,0,0.00) 81.45%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,0.59) 0%,rgba(0,0,0,0.00) 81.45%);
+    height: 45px;
+}
+.activites_shadow_top {
+    text-align: center;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.59) 0%,rgba(0,0,0,0.00) 81.45%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,0.59) 0%,rgba(0,0,0,0.00) 81.45%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,0.59) 0%,rgba(0,0,0,0.00) 81.45%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,0.59) 0%,rgba(0,0,0,0.00) 81.45%);
+    height: 45px;
+}
+.shadow_content {
+    height: 100%;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.69) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.69) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.69) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.69) 100%);
+}
+.content_show {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #3c2415;
+}
+.content_show_week {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    padding-left: 0px;
+    padding-bottom: 30px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #3c2415;
+}
+.content_activity {
+    position: absolute;
+    bottom: 29px;
+    width: 100%;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #3c2415;
+}
+.normal_font {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.bold_font {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+.orange_flag {
+    background-image: url(../img/layout/orange_flag.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    width: 134px;
+    height: 52px;
+    font-family: 'Open Sans', sans-serif;
+    color: #3C2415;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 52px;
+    text-align: center;
+    vertical-align: bottom;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+.orange_flag_week {
+    background-image: url(../img/layout/orange_flag.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    width: 134px;
+    height: 52px;
+    font-family: 'Open Sans', sans-serif;
+    color: #3C2415;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 52px;
+    text-align: center;
+    vertical-align: bottom;
+    position: absolute;
+    right: 0px;
+    top: -31px;
+}
+
+.show_info {
+    padding-left: 30px;
+}
+.position_show {
+    position: relative;
+}
+.type_show {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFFFFF;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.34);
+    text-transform: uppercase;
+}
+.orange_text {
+    color: #fbac18;
+}
+.type_show .icon.icon-person {
+    float: left;
+    margin-left: -40px;
+    color: #FBAC18;
+    font-size: 26px;
+    margin-top: -3px;
+}
+.gray_text {
+    color: #939598;
+}
+.hour_show {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    padding-bottom: 14px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.34);
+}
+.hour_show .icon.icon-clock {
+    float: left;
+    margin-left: -38px;
+    font-size: 24px;
+    color: #fbac18;
+    margin-top: -3px;
+}
+.place_show {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    line-height: 29px;
+    padding-bottom: 15px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.34);
+    min-height: 70px;
+}
+.place_show .icon.icon-pointer {
+    float: left;
+    font-size: 48px;
+    margin-left: -51px;
+    margin-top: 5px;
+    color: #FBAC18;
+}
+.show_tittle {
+    color: #FFFFFF;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 37px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.34);
+}
+.show_subtittle {
+    color: #fbac18;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 27px;
+}
+.show_name {
+    padding-bottom: 30px;
+}
+.show_place_en {
+    font-weight: 400;
+    color: #fbac18;
+}
+.activitie_box {
+    width: 480.666px;
+    height: 680px;
+    float: left;
+    border-left: 2px solid #FFFFFF;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+}
+.restaurant_box {
+    width: 240.333px;
+    height: 680px;
+    border-left: 2px solid #FFFFFF;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.name_activity {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 26px;
+    padding-bottom: 24px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+    text-transform: uppercase;
+}
+.restaurant_top {
+    height: 490px;
+    position: relative;
+    border-bottom-right-radius: 140px;
+    background-image: -webkit-linear-gradient(270deg,rgba(9,51,80,1.00) 0%,rgba(5,25,40,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(9,51,80,1.00) 0%,rgba(5,25,40,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(9,51,80,1.00) 0%,rgba(5,25,40,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(9,51,80,1.00) 0%,rgba(5,25,40,1.00) 100%);
+}
+.relative {
+    position: relative;
+}
+.circle_restaurant {
+    background-color: #FFFFFF;
+    width: 62px;
+    height: 62px;
+    border-radius: 31px;
+    position: absolute;
+    right: 26px;
+    top: -68px;
+    font-size: 43px;
+    line-height: 82px;
+    text-align: center;
+    color: #754c29;
+}
+.restaurant_info {
+     font-family: 'Open Sans', sans-serif;
+    padding-top: 20px;
+    padding-left: 35px;
+        text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+
+}
+.rest_clas_en {
+    color: #fbac18;
+    font-weight: 600;
+    font-size: 21px;
+    text-transform: uppercase;
+}
+.rest_clas_es {
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 21px;
+}
+.hour_restaurant .icon.icon-clock {
+    margin-right: 9px;
+}
+.hour_restaurant {
+    color: #FFFFFF;
+    font-size: 20px;
+    padding-top: 6px;
+    text-transform: uppercase;
+}
+.dress_restaurant {
+    color: #FFFFFF;
+    font-size: 20px;
+    padding-top: 3px;
+    text-transform: uppercase;
+}
+.hour_restaurant .icon.icon-clock {
+    vertical-align: -4px;
+    color: #fbac18;
+    padding-right: 6px;
+    font-size: 25px;
+}
+.restaurant_name {
+    position: absolute;
+    bottom: 23px;
+    transform: rotate(-90deg);
+    transform-origin: left top 0;
+    left: 23px;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 37px;
+    width: 412px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+    text-transform: uppercase;
+}
+.restaurant_name_type {
+    position: absolute;
+    bottom: 30px;
+    transform: rotate(-90deg);
+    transform-origin: left top 0;
+    left: 62px;
+    font-family: 'Open Sans', sans-serif;
+    color: #fbac18;
+    font-weight: 600;
+    font-size: 30px;
+    width: 412px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+    text-transform: uppercase;
+}
+.reserve_flag {
+    position: absolute;
+    right: 0px;
+    width: 128px;
+    height: 39px;
+    top: 45px;
+    background-image: url(../img/layout/rest_flag.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    font-size: 20px;
+    line-height: 39px;
+    text-align: right;
+    padding-right: 19px;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+}
+.back_restaurant {
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/layout/break_back.png);
+    background-position: left center;
+    border-bottom-right-radius: 140px;
+}
+.top_meal {
+    background-image: -webkit-linear-gradient(270deg,rgba(17,162,166,1.00) 0%,rgba(7,60,63,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(17,162,166,1.00) 0%,rgba(7,60,63,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(17,162,166,1.00) 0%,rgba(7,60,63,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(17,162,166,1.00) 0%,rgba(7,60,63,1.00) 100%);
+}
+.meal_back {
+    background-image: url(../img/layout/meal_back.png);
+    background-position: 73px top;
+}
+.blue_text {
+    color: #1a3e59 !important;
+}
+.text_brown {
+    color: #721011 !important;
+}
+.top_break {
+    background-image: -webkit-linear-gradient(270deg,rgba(213,145,20,1.00) 0%,rgba(51,33,5,1.00) 99.95%);
+    background-image: -moz-linear-gradient(270deg,rgba(213,145,20,1.00) 0%,rgba(51,33,5,1.00) 99.95%);
+    background-image: -o-linear-gradient(270deg,rgba(213,145,20,1.00) 0%,rgba(51,33,5,1.00) 99.95%);
+    background-image: linear-gradient(180deg,rgba(213,145,20,1.00) 0%,rgba(51,33,5,1.00) 99.95%);
+}
+.break_back {
+    background-image: url(../img/layout/yellow_back.png);
+    background-position: left bottom;
+}
+.rest_row {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 31px;
+    text-transform: uppercase;
+    height: 32px;
+}
+#rest_rotator ul li:nth-child(odd) {
+    background-color: #505659;
+}
+
+#rest_rotator ul li:nth-child(even) {
+    background-color: #444749;
+}
+
+.header_restaurants {
+    position: absolute;
+    width: 100%;
+    height: 32px;
+    background-color: #000000;
+    top: -30px;
+    line-height: 32px;
+    z-index: 999;
+}
+.rest_shadow_left {
+    width: 10px;
+    height: 288px;
+    position: absolute;
+    top: -30px;
+    background-image: -webkit-linear-gradient(0deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: -moz-linear-gradient(0deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: -o-linear-gradient(0deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: linear-gradient(90deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    z-index: 1048;
+}
+.rest_shadow_right {
+    width: 10px;
+    height: 288px;
+    position: absolute;
+    top: -30px;
+    right: 0px;
+    background-image: -webkit-linear-gradient(180deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: -moz-linear-gradient(180deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: -o-linear-gradient(180deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: linear-gradient(270deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    z-index: 999;
+}
+.r_icon {
+    height: 100%;
+    width: 32px;
+    display: inline-block;
+    background-color: #f15a29;
+    text-align: center;
+    line-height: 32px;
+    z-index: 999;
+    font-family: 'Roboto Slab', serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+}
+.tittle_rest_r {
+    display: inline-block;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    vertical-align: 2px;
+    padding-left: 11px;
+}
+.tittle_drees_code {
+    float: right;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    padding-right: 11px;
+}
+.rest_tittle {
+    width: 100%;
+    height: 100%;
+    background-color: #e78524;
+}
+.rest_tittle_content {
+    height: 100%;
+    width: 295px;
+    background-color: #fbac18;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    color: #ffffff;
+    line-height: 32px;
+    padding-left: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+    font-size: 17px;
+    margin-left: 30px;
+}
+.name_restaurant {
+    width: 30%;
+}
+.rest_table {
+    padding-left: 12px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.inline_block {
+    display: inline-block;
+}
+.inline_block.rest_text {
+    height: 100%;
+}
+.reserve_line {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+    background-color: #F15A2A;
+}
+.rest_name_list {
+    width: 130px;
+    color: #FFFFFF;
+    padding-left: 10px;
+}
+.type_rest_line {
+    width: 270px;
+    padding-left: 10px;
+}
+.rest_clock_line .icon.icon-clock {
+    vertical-align: -1px;
+}
+.rest_clock_line {
+    width: 169px;
+    text-align: left;
+}
+.rest_hour {
+    width: 70px;
+    text-align: center;
+}
+.dress_code_box {
+    width: 74px;
+    padding-left: 7px;
+}
+.no_reserve {
+    width: 35px;
+}
+.dress_restaurant .icon.icon-person {
+    font-size: 28px;
+    vertical-align: -6px;
+    margin-right: 14px;
+    margin-left: -1px;
+}
+
+.promo_total_content {
+    width: 100%;
+    height: 100%;
+    background-color: #E4E504;
+}
+.promo_content {
+    width: 50%;
+    height: 100%;
+    background-color: #48bfad;
+    float: left;
+    position: relative;
+}
+.promo_picture {
+    float: right;
+    width: 50%;
+    height: 100%;
+    background-color: #E31EF8;
+    position: relative;
+}
+.phone_number {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    color: #FFFFFF;
+    background-color: #019e8f;
+    padding-left: 17px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 17px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+
+}
+.promo_phone {
+    color: #f9dec3;
+    vertical-align: -4px;
+    font-size: 24px;
+    margin-right: 10px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+
+}
+.promo_shadow_right {
+    width: 10px;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-image: -webkit-linear-gradient(180deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: -moz-linear-gradient(180deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: -o-linear-gradient(180deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: linear-gradient(270deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    z-index: 999;
+}
+.video_shadow_right {
+    width: 10px;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-image: -webkit-linear-gradient(180deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: -moz-linear-gradient(180deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: -o-linear-gradient(180deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: linear-gradient(270deg,rgba(0,0,0,0.43) 0%,rgba(0,0,0,0.00) 100%);
+    z-index: 999;
+}
+.promo_tittle {
+    position: absolute;
+    width: 400px;
+    background-color: #019e8f;
+    top: 0px;
+    left: 0px;
+    z-index: 666;
+}
+.tittle_promo_es {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 28px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+
+        
+}
+.tittle_promo_en {
+    color: #f9dec3;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 28px;
+    padding-top: 10px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+
+        
+}
+.promo_tittle_content {
+    position: relative;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+}
+.shadow_top_promo {
+    height: 10px;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.25) 0.05%,rgba(0,0,0,0.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,0.25) 0.05%,rgba(0,0,0,0.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,0.25) 0.05%,rgba(0,0,0,0.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,0.25) 0.05%,rgba(0,0,0,0.00) 100%);
+    position: absolute;
+    width: 100%;
+}
+
+.shadow_top_video {
+    height: 10px;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.44) 0.05%,rgba(0,0,0,0.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,0.44) 0.05%,rgba(0,0,0,0.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,0.44) 0.05%,rgba(0,0,0,0.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,0.44) 0.05%,rgba(0,0,0,0.00) 100%);
+    position: absolute;
+    width: 100%;
+}
+.promo_info_box {
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.info_promo_es {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+
+}
+.info_promo_en {
+    color: #f9dec3;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    padding-top: 10px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+
+}
+.phones_rotator {
+    float: left;
+    width: 480px;
+    height: 58px;
+}
+.name_place_rotator {
+    height: 59px;
+    width: 45%;
+    float: left;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    line-height: 19px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.hour_place_rotator {
+    float: left;
+    width: 25%;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: auto;
+    margin-top: 7px;
+    border-left: 2px solid #0584a9;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    line-height: 19px;
+}
+.ext_place_rotator {
+    float: left;
+    width: 30%;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    line-height: 19px;
+    font-size: 17px;
+    text-align: center;
+    padding-top: 9px;
+    border-left: 2px solid #0584a9;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 7px;
+    padding-bottom: 12px;
+}
+.icon_rotator_place {
+    color: #DBD184;
+    font-size: 24px;
+    vertical-align: -4px;
+}
+.text_yellow {
+    color: #DBD184 !important;
+}
+.time_individual {
+    float: left;
+    width: 33.3333%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #D7CE8F;
+    text-transform: uppercase;
+    line-height: 19px;
+    font-size: 15px;
+    padding-top: 18px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+}
+.time_real {
+    color: #FFFFFF;
+}
+.real_current_time {
+    font-size: 26px;
+    line-height: 34px;
+}
+.weather_3_col {
+    width: 33.3333%;
+    float: left;
+    height: 100%;
+}
+.date_esp {
+    height: 50%;
+    background-color: #376083;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    padding-top: 14px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+}
+.date_eng {
+    background-color: #3e6b92;
+    height: 50%;
+    color: #d7ce8f;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    padding-top: 12px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+}
+.date_apos {
+    text-transform: lowercase;
+}
+.flag_tide {
+    width: 58px;
+    height: 42px;
+    display: inline-block;
+}
+.yellow_flag {
+    background-image: -webkit-linear-gradient(0deg,rgba(249,235,49,1.00) 10.49%,rgba(180,109,8,1.00) 88.98%);
+    background-image: -moz-linear-gradient(0deg,rgba(249,235,49,1.00) 10.49%,rgba(180,109,8,1.00) 88.98%);
+    background-image: -o-linear-gradient(0deg,rgba(249,235,49,1.00) 10.49%,rgba(180,109,8,1.00) 88.98%);
+    background-image: linear-gradient(90deg,rgba(249,235,49,1.00) 10.49%,rgba(180,109,8,1.00) 88.98%);
+}
+.red_flag {
+    background-image: -webkit-linear-gradient(0deg,rgba(219,31,38,1.00) 14.99%,rgba(113,1,3,1.00) 80.37%);
+    background-image: -moz-linear-gradient(0deg,rgba(219,31,38,1.00) 14.99%,rgba(113,1,3,1.00) 80.37%);
+    background-image: -o-linear-gradient(0deg,rgba(219,31,38,1.00) 14.99%,rgba(113,1,3,1.00) 80.37%);
+    background-image: linear-gradient(90deg,rgba(219,31,38,1.00) 14.99%,rgba(113,1,3,1.00) 80.37%);
+}
+.green_flag {
+    background-image: -webkit-linear-gradient(0deg,rgba(71,177,72,1.00) 18.99%,rgba(2,76,18,1.00) 81.86%);
+    background-image: -moz-linear-gradient(0deg,rgba(71,177,72,1.00) 18.99%,rgba(2,76,18,1.00) 81.86%);
+    background-image: -o-linear-gradient(0deg,rgba(71,177,72,1.00) 18.99%,rgba(2,76,18,1.00) 81.86%);
+    background-image: linear-gradient(90deg,rgba(71,177,72,1.00) 18.99%,rgba(2,76,18,1.00) 81.86%);
+}
+.black_flag {
+    background-image: -webkit-linear-gradient(0deg,rgba(65,64,66,1.00) 15.32%,rgba(10,9,9,1.00) 77.15%);
+    background-image: -moz-linear-gradient(0deg,rgba(65,64,66,1.00) 15.32%,rgba(10,9,9,1.00) 77.15%);
+    background-image: -o-linear-gradient(0deg,rgba(65,64,66,1.00) 15.32%,rgba(10,9,9,1.00) 77.15%);
+    background-image: linear-gradient(90deg,rgba(65,64,66,1.00) 15.32%,rgba(10,9,9,1.00) 77.15%);
+}
+.flags_col {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 12px;
+}
+.ocean_conditions_tittle {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+    padding-bottom: 2px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+}
+.tide_content {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+    padding-bottom: 2px;
+    line-height: 17px;
+    padding-top: 5px;
+    padding-left: 8px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+}
+.weather_col {
+    display: inline-block;
+    text-align: center;
+}
+.weather_icon {
+    font-size: 37px;
+    color: #FFFFFF;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -4px;
+}
+.weather_temp {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 27px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+}
+.weather_content {
+    text-align: center;
+    padding-top: 10px;
+}
+.temperature_tittle {
+    padding-bottom: 13px;
+    text-shadow: 2px 1px 3px rgba(0,0,0,0.47);
+}
+.news_ticker {
+    float: left;
+    width: 1260px;
+    height: 100%;
+    padding-top: 13px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.hours_24 {
+    padding-top: 15px;
+    padding-bottom: 11px;
+}
+.video_frame {
+    width: 100%;
+    height: 100%;
+}
+.tittle_show_week {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 25px;
+    padding-bottom: 8px;
+    line-height: 17px;
+    padding-top: 2px;
+}
+.tittle_show_week_info {
+     color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 2px;
+    line-height: 17px;
+}
+.clock_show_week {
+    float: left;
+    margin-left: -38px;
+    color: #fbac18;
+    font-size: 21px;
+    margin-top: -3px;
+}
+.place_pointer_week {
+    float: left;
+    color: #FBAC17;
+    margin-left: -40px;
+    font-size: 25px;
+    margin-top: -6px;
+}
+.info_place_week {
+    margin-bottom: 10px;
+}
+.border_show_week {
+    border-bottom: 2px solid rgba(20,189,195,0.45);
+    width: 70%;
+}
+.time_rest_week {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 17px;
+    margin-left: 70px;
+}
+.time_content_rest_week {
+    display: inline-block;
+    width: 80px;
+}
+.fork_week {
+    color: #754C29;
+}
+.circle_fork {
+    float: left;
+    background-color: #FFFFFF;
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    border-radius: 31px;
+    margin-left: -43px;
+    margin-top: -6px;
+}
+.restaurant_name_week {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 22px;
+}
+.restaurant_time_week {
+    padding-bottom: 15px;
+}
+.show_week_box {
+    margin-left: 70px;
+    margin-bottom: 26px;
+}
+#promo_rotator {
+    background-color: #000000;
+}
+.place_nopromo {
+    width: 720px;
+    height: 258px;
+    position: relative;
+    background-position: center 0%;
+}
+.picture_tittle {
+    position: absolute;
+    background-image: -webkit-linear-gradient(180deg,rgba(80,86,89,1.00) 0%,rgba(11,11,12,1.00) 100%);
+    background-image: -moz-linear-gradient(180deg,rgba(80,86,89,1.00) 0%,rgba(11,11,12,1.00) 100%);
+    background-image: -o-linear-gradient(180deg,rgba(80,86,89,1.00) 0%,rgba(11,11,12,1.00) 100%);
+    background-image: linear-gradient(270deg,rgba(80,86,89,1.00) 0%,rgba(11,11,12,1.00) 100%);
+    height: 40px;
+    bottom: 0px;
+    left: 0px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    line-height: 40px;
+    padding-right: 30px;
+    padding-left: 15px;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+}
+#rotator_especial {
+    float: left;
+    width: 720px;
+    height: 258px;
+}
+.purple_tittle {
+    background-color: #71205f;
+}
+.purple_content {
+    background-color: #b462a6;
+}
+.purple_phone {
+    color: #71205f;
+}
+.purple_ext {
+    background-color: #46beac;
+}
+
+.blue_tittle {
+    background-color: #274e68;
+}
+.blue_content {
+    background-color: #4786ab;
+}
+.blue_phone {
+    color: #f9dec2;
+}
+.blue_ext {
+    background-color: #022e45;
+}
+
+.green_tittle {
+    background-color: #009d8e;
+}
+.green_content {
+    background-color: #46bdab;
+}
+.green_phone {
+    color: #f9dec2;
+}
+.green_ext {
+    background-color: #00675d;
+}
+
+
+.red_tittle {
+    background-color: #5c0001;
+}
+.red_content {
+    background-color: #930a0e;
+}
+.red_phone {
+    color: #f9dec2;
+}
+.red_ext {
+    background-color: #460002;
+}
+.logo_container {
+    height: 100%;
+	display: flex;
+	align-items: center;
+}
