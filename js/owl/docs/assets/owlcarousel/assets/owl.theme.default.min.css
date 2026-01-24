@@ -1,5 +1,7 @@
 /**
- * Owl Carousel v2.2.1
+ * Owl Carousel 
+ * Copyright 2016-2018 David Deutsch
+ * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
  */
 .owl-theme .owl-dots,.owl-theme .owl-nav {
     text-align: center;
@@ -46,7 +48,7 @@
     margin: 5px 7px;
     background: #D6D6D6;
     display: block;
-    -webkit-backface-visibility: visible;
+    backface-visibility: visible;
     transition: opacity .2s ease;
     border-radius: 30px
 }
