@@ -1,6 +1,10 @@
+/*!
+ * jQuery Carousel Lite
+ * Copyright (c) 2012 Karl Swedberg
+ */
+
 (function($) {                                          // Compliant with jquery.noConflict()
     $.jCarouselLite = {
-        version: '1.2.0-alpha'
     };
 
     $.fn.jCarouselLite = function(options) {
