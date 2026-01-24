@@ -1,6 +1,9 @@
 /**
- * Owl carousel
+ * Owl Carousel 
+ * Copyright 2016-2018 David Deutsch
+ * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
  */
+
 ;(function($, window, document, undefined) {
 
 	/**
@@ -1684,7 +1687,6 @@
 
 /**
  * AutoRefresh Plugin
- * @version 2.1.0
  * @author Artus Kolanowski
  * @author David Deutsch
  * @license The MIT License (MIT)
@@ -1796,7 +1798,6 @@
 
 /**
  * Lazy Plugin
- * @version 2.1.0
  * @author Bartosz Wojciechowski
  * @author David Deutsch
  * @license The MIT License (MIT)
@@ -1932,7 +1933,6 @@
 
 /**
  * AutoHeight Plugin
- * @version 2.1.0
  * @author Bartosz Wojciechowski
  * @author David Deutsch
  * @license The MIT License (MIT)
@@ -2030,7 +2030,6 @@
 
 /**
  * Video Plugin
- * @version 2.1.0
  * @author Bartosz Wojciechowski
  * @author David Deutsch
  * @license The MIT License (MIT)
@@ -2157,8 +2156,6 @@
 					https://vimeo.com/channels/:channel/:id
 					https://vimeo.com/groups/:group/videos/:id
 					https://app.vzaar.com/videos/:id
-
-					Visual example: https://regexper.com/#(http%3A%7Chttps%3A%7C)%5C%2F%5C%2F(player.%7Cwww.%7Capp.)%3F(vimeo%5C.com%7Cyoutu(be%5C.com%7C%5C.be%7Cbe%5C.googleapis%5C.com)%7Cvzaar%5C.com)%5C%2F(video%5C%2F%7Cvideos%5C%2F%7Cembed%5C%2F%7Cchannels%5C%2F.%2B%5C%2F%7Cgroups%5C%2F.%2B%5C%2F%7Cwatch%5C%3Fv%3D%7Cv%5C%2F)%3F(%5BA-Za-z0-9._%25-%5D*)(%5C%26%5CS%2B)%3F
 			*/
 
 			id = url.match(/(http:|https:|)\/\/(player.|www.|app.)?(vimeo\.com|youtu(be\.com|\.be|be\.googleapis\.com)|vzaar\.com)\/(video\/|videos\/|embed\/|channels\/.+\/|groups\/.+\/|watch\?v=|v\/)?([A-Za-z0-9._%-]*)(\&\S+)?/);
@@ -2350,7 +2347,6 @@
 
 /**
  * Animate Plugin
- * @version 2.1.0
  * @author Bartosz Wojciechowski
  * @author David Deutsch
  * @license The MIT License (MIT)
@@ -2472,7 +2468,6 @@
 
 /**
  * Autoplay Plugin
- * @version 2.1.0
  * @author Bartosz Wojciechowski
  * @author Artus Kolanowski
  * @author David Deutsch
@@ -2672,7 +2667,6 @@
 
 /**
  * Navigation Plugin
- * @version 2.1.0
  * @author Artus Kolanowski
  * @author David Deutsch
  * @license The MIT License (MIT)
@@ -3055,7 +3049,6 @@
 
 /**
  * Hash Plugin
- * @version 2.1.0
  * @author Artus Kolanowski
  * @author David Deutsch
  * @license The MIT License (MIT)
@@ -3178,8 +3171,6 @@
 
 /**
  * Support Plugin
- *
- * @version 2.1.0
  * @author Vivid Planet Software GmbH
  * @author Artus Kolanowski
  * @author David Deutsch
